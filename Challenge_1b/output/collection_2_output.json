@@ -1,0 +1,853 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
+    ],
+    "persona": "Product Trainer",
+    "job_to_be_done": "Create a short summary of key features and tools available in Adobe Acrobat",
+    "timestamp": "2025-07-28T18:06:32.665562Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 29,
+      "section_title": "\u2022 \n(Visio 2010) Choose Acrobat > Create and Send F...",
+      "importance_score": 0.5989493727684021
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 12,
+      "section_title": "About Acrobat PDFMaker \nPDFMaker is an Acrobat fea...",
+      "importance_score": 0.5676042437553406
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 7,
+      "section_title": "Do any of the following: \n\u2022 \nIn Acrobat, select Cr...",
+      "importance_score": 0.5276726484298706
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 12,
+      "section_title": "When you install Acrobat, \nPDFMaker controls appea...",
+      "importance_score": 0.5070391893386841
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 12,
+      "section_title": "It involves \nclicking an Acrobat PDFMaker toolbar ...",
+      "importance_score": 0.5063772201538086
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 12,
+      "section_title": "If you\u2019re creating a PDF from a Microsoft \nOffice ...",
+      "importance_score": 0.5541415214538574
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 12,
+      "section_title": "Note:  \n(Windows) For Microsoft Office documents, ...",
+      "importance_score": 0.476471483707428
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 9,
+      "section_title": "Visio-specific options on the Settings tab (Acroba...",
+      "importance_score": 0.44868162274360657
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 8,
+      "section_title": "Embed Scale Information \nPreserves drawing-scale i...",
+      "importance_score": 0.44509318470954895
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 1,
+      "section_title": "You can also organize the Visio layers \nin layer s...",
+      "importance_score": 0.42479366064071655
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "page_number": 13,
+      "section_title": "Edit images or objects in a PDF \n \nAbout editing t...",
+      "importance_score": 0.5408743023872375
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "page_number": 13,
+      "section_title": "Refer to the following topics to learn how to add,...",
+      "importance_score": 0.5273816585540771
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "page_number": 13,
+      "section_title": "You can also enhance document accessibility using ...",
+      "importance_score": 0.4684375822544098
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "page_number": 15,
+      "section_title": "Open the PDF document in Adobe Acrobat....",
+      "importance_score": 0.400810182094574
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "page_number": 2,
+      "section_title": "You can use the options in the Edit panel to repla...",
+      "importance_score": 0.3726118206977844
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "page_number": 14,
+      "section_title": "If you encounter compatibility issues, try updatin...",
+      "importance_score": 0.4295158088207245
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "page_number": 1,
+      "section_title": "The object is automatically updated and \ndisplayed...",
+      "importance_score": 0.3871690034866333
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "page_number": 14,
+      "section_title": "For more information, see Scan documents to PDF....",
+      "importance_score": 0.3752044439315796
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "page_number": 16,
+      "section_title": "Open the photograph or image of the document in Ac...",
+      "importance_score": 0.3742867112159729
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "page_number": 4,
+      "section_title": "Extract random pages from a PDF \nYou can also sele...",
+      "importance_score": 0.3742610812187195
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 26,
+      "section_title": "Overview \nAcrobat allows you to export images and ...",
+      "importance_score": 0.5529570579528809
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 9,
+      "section_title": "You can let Acrobat determine these \nsettings auto...",
+      "importance_score": 0.44099414348602295
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 10,
+      "section_title": "You can let Acrobat determine these \nsettings auto...",
+      "importance_score": 0.44099414348602295
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 11,
+      "section_title": "You can let Acrobat determine these \nsettings auto...",
+      "importance_score": 0.44099414348602295
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 12,
+      "section_title": "Text Recognition Settings \n\u2022 \nRecognize Text If Ne...",
+      "importance_score": 0.4362086355686188
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 1,
+      "section_title": "Select Acrobat in the upper-left (macOS) or Menu i...",
+      "importance_score": 0.3788348436355591
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 3,
+      "section_title": "Note:  \nYou can save all the images from a PDF....",
+      "importance_score": 0.3354078531265259
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 1,
+      "section_title": "Copy images \nUse the Select tool to copy and paste...",
+      "importance_score": 0.325408399105072
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 2,
+      "section_title": "Export objects to separate PDF \nUsing the Edit Obj...",
+      "importance_score": 0.3023555278778076
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 2,
+      "section_title": "Select All tools > Use print production > Edit obj...",
+      "importance_score": 0.2893524765968323
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 16,
+      "section_title": "Go to Acrobat or Acrobat Reader Home and then from...",
+      "importance_score": 0.500643253326416
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 12,
+      "section_title": "When you create a different form, redo this \ntask ...",
+      "importance_score": 0.47922003269195557
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 2,
+      "section_title": "Acrobat \nalso allows you to send your completed fo...",
+      "importance_score": 0.4396890103816986
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 1,
+      "section_title": "Fill and Sign PDF Forms \nYou can easily fill, sign...",
+      "importance_score": 0.43394675850868225
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 12,
+      "section_title": "Change flat forms to fillable (Acrobat Pro) \nYou c...",
+      "importance_score": 0.4239930212497711
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 17,
+      "section_title": "Acrobat online \nAlternatively, in Acrobat Home, se...",
+      "importance_score": 0.6794627904891968
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 2,
+      "section_title": "Overview of generative AI features \nUse the genera...",
+      "importance_score": 0.6476595401763916
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 18,
+      "section_title": "Use generative AI features in Acrobat Reader \nIf y...",
+      "importance_score": 0.6165422797203064
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 14,
+      "section_title": "You can access the generative AI features from Acr...",
+      "importance_score": 0.605898380279541
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 23,
+      "section_title": "Rate your experience with the generative AI \nfeatu...",
+      "importance_score": 0.6010099649429321
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "page_number": 17,
+      "section_title": "Note:  \nAcrobat Classic does not support AI Assist...",
+      "importance_score": 0.5881145000457764
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "page_number": 12,
+      "section_title": "You can request access to \nthe AI Assistant for Ac...",
+      "importance_score": 0.5824361443519592
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "page_number": 16,
+      "section_title": "Administer AI Assistant for enterprises \nAdobe's A...",
+      "importance_score": 0.5787127614021301
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "page_number": 11,
+      "section_title": "As a Teams user, learn how to request access to AI...",
+      "importance_score": 0.5575610399246216
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "page_number": 18,
+      "section_title": "License deployment \nYou can manage the deployment ...",
+      "importance_score": 0.5525646805763245
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 22,
+      "section_title": "Alternatively, from Acrobat Home, select See all t...",
+      "importance_score": 0.594190239906311
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 19,
+      "section_title": "Adobe Acrobat supports a range of solutions for el...",
+      "importance_score": 0.5248744487762451
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 19,
+      "section_title": "Additional signing options in Acrobat include \nint...",
+      "importance_score": 0.45767635107040405
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 21,
+      "section_title": "Consider signing up for Adobe Acrobat Sign online,...",
+      "importance_score": 0.4344625473022461
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 21,
+      "section_title": "With Acrobat Sign, you can get PDF, Microsoft Word...",
+      "importance_score": 0.42211678624153137
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 10,
+      "section_title": "Acrobat and Acrobat Reader can embed the necessary...",
+      "importance_score": 0.42172539234161377
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 2,
+      "section_title": "Select the hamburger menu   (Windows\u00ae), or go to A...",
+      "importance_score": 0.40291619300842285
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 10,
+      "section_title": "XML data signatures \nAcrobat and Acrobat Reader su...",
+      "importance_score": 0.3582794666290283
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 4,
+      "section_title": "Navigate to the hamburger menu   (Windows) or the ...",
+      "importance_score": 0.3496169149875641
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 9,
+      "section_title": "\u2022 \nTo view the name of the organization or person ...",
+      "importance_score": 0.3364899754524231
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "page_number": 11,
+      "section_title": "Choose Acrobat > Create And Send For Review....",
+      "importance_score": 0.5489106178283691
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "page_number": 11,
+      "section_title": "They can also use Acrobat Reader or \nAcrobat deskt...",
+      "importance_score": 0.47514432668685913
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "page_number": 12,
+      "section_title": "They can also use Acrobat Reader or \nAcrobat deskt...",
+      "importance_score": 0.47514432668685913
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "page_number": 11,
+      "section_title": "Note: \n\u2022 \nThe computer must be connected to the In...",
+      "importance_score": 0.4638552665710449
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "page_number": 11,
+      "section_title": "Note: \n\u2022 \nThe computer must be connected to the In...",
+      "importance_score": 0.4638552665710449
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 2,
+      "section_title": "Annotations and drawing markup tools \noverview \nNo...",
+      "importance_score": 0.5840827226638794
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 2,
+      "section_title": "Note:  \nIn Acrobat Pro, you can add tags to your c...",
+      "importance_score": 0.5182881355285645
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 9,
+      "section_title": "Add an arrow, or shape \nNote: In Acrobat Reader , ...",
+      "importance_score": 0.504013180732727
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 10,
+      "section_title": "Our online PDF editor lets you easily add text, \ns...",
+      "importance_score": 0.4855905771255493
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 3,
+      "section_title": "Drawing Tools menu \nSelect an annotation or drawin...",
+      "importance_score": 0.458534300327301
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "Export Expert: Test Your Acrobat Exporting Skills ...",
+      "importance_score": 0.5194083452224731
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "Dive into real-world scenarios, answer intriguing ...",
+      "importance_score": 0.41143977642059326
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "Do you use Acrobat to \nconvert your PDF to a Power...",
+      "importance_score": 0.39930158853530884
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "Think you know everything \nabout saving, convertin...",
+      "importance_score": 0.3734484314918518
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 2,
+      "section_title": "Yes or No: Can you select and copy text and images...",
+      "importance_score": 0.3499987721443176
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 3,
+      "section_title": "Conclusion \nSharing PDFs with Adobe Acrobat is str...",
+      "importance_score": 0.4525989890098572
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 1,
+      "section_title": "The Ultimate PDF Sharing Checklist \nSharing PDFs c...",
+      "importance_score": 0.40327855944633484
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 1,
+      "section_title": "Let's dive \ninto the essentials of sharing PDFs ef...",
+      "importance_score": 0.3891904056072235
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 2,
+      "section_title": "Here's a tailored checklist to \nhelp you manage yo...",
+      "importance_score": 0.35402077436447144
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 2,
+      "section_title": "Real Estate Sharing Checklist \n\u2022  Open Your Proper...",
+      "importance_score": 0.34953877329826355
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "\u2022 \n(Visio 2010) Choose Acrobat > Create and Send For Review.",
+      "page_number": 29
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "About Acrobat PDFMaker \nPDFMaker is an Acrobat feature that operates within many business applications, such as \nMicrosoft Office applications, AutoCAD, and Lotus Notes.",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "Do any of the following: \n\u2022 \nIn Acrobat, select Create from the global toolbar.",
+      "page_number": 7
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "When you install Acrobat, \nPDFMaker controls appear in the work area of the authoring application.",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "It involves \nclicking an Acrobat PDFMaker toolbar button or choosing a command on the Adobe PDF menu.",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "If you\u2019re creating a PDF from a Microsoft \nOffice document and you want to use these features, use PDFMaker.",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "Note:  \n(Windows) For Microsoft Office documents, the Adobe PDF printer does not include some of \nthe features that are available from PDFMaker.",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "Visio-specific options on the Settings tab (Acrobat Pro) \nThe following options appear when you open the PDFMaker settings from within Microsoft \nVisio.",
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "Embed Scale Information \nPreserves drawing-scale information, which is usable with the Acrobat measurement tools.",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "You can also organize the Visio layers \nin layer sets, which are folders in the Acrobat Layers panel.",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "Edit images or objects in a PDF \n \nAbout editing text and images \nAdobe Acrobat provides powerful tools and capabilities for editing PDF images and text.",
+      "page_number": 13
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "Refer to the following topics to learn how to add, resize, move, or replace images and objects \nin a PDF using Acrobat.",
+      "page_number": 13
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "You can also enhance document accessibility using Acrobat's features, such as adding \nalternative text for images and proper content tagging.",
+      "page_number": 13
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "Open the PDF document in Adobe Acrobat.",
+      "page_number": 15
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "You can use the options in the Edit panel to replace, edit, or \nadd text to a PDF.",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "If you encounter compatibility issues, try updating Adobe \nAcrobat.",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "The object is automatically updated and \ndisplayed in the PDF when you bring Acrobat to the foreground.",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "For more information, see Scan documents to PDF.",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Open the photograph or image of the document in Acrobat.",
+      "page_number": 16
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Extract random pages from a PDF \nYou can also select and extract discontinuous pages from the page thumbnails in the right \nnavigation pane of Acrobat.",
+      "page_number": 4
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": "Overview \nAcrobat allows you to export images and text selections from a PDF to different file formats.",
+      "page_number": 26
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": "You can let Acrobat determine these \nsettings automatically.",
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": "You can let Acrobat determine these \nsettings automatically.",
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": "You can let Acrobat determine these \nsettings automatically.",
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": "Text Recognition Settings \n\u2022 \nRecognize Text If Needed: Recognizes text if the PDF contains images that contain text.",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "Select Acrobat in the upper-left (macOS) or Menu in the upper-left (Windows), then \nselect Preferences.",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "Note:  \nYou can save all the images from a PDF.",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "Copy images \nUse the Select tool to copy and paste individual images from a PDF to the clipboard, another \napplication, or a file.",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "Export objects to separate PDF \nUsing the Edit Object tool, you can save objects into a separate PDF.",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "Select All tools > Use print production > Edit object.",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "Go to Acrobat or Acrobat Reader Home and then from under Agreements, \nselect Adobe Acrobat Sign.",
+      "page_number": 16
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "When you create a different form, redo this \ntask to enable Acrobat Reader users to use the tools.",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "Acrobat \nalso allows you to send your completed forms to others and securely save them in Adobe \ncloud storage.",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "Fill and Sign PDF Forms \nYou can easily fill, sign, and share your documents using Acrobat's Fill & Sign tool.",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "Change flat forms to fillable (Acrobat Pro) \nYou can change a flat form to a fillable form by either using the Prepare Form tool or \nenabling the Fill & Sign tools.",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "Acrobat online \nAlternatively, in Acrobat Home, select All tools, then select AI Assistant or Generative \nsummary tool.",
+      "page_number": 17
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "Overview of generative AI features \nUse the generative AI features in Acrobat and Acrobat Reader to quickly scan through \nlengthy, complex PDF content and get answers or generate a summary.",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "Use generative AI features in Acrobat Reader \nIf you are signed in to Acrobat Reader, you can access the generative AI features from \nHome.",
+      "page_number": 18
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "You can access the generative AI features from Acrobat Reader, Acrobat \ndesktop and online, and Acrobat for Microsoft Teams.",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "Rate your experience with the generative AI \nfeatures \nAfter using the AI features four or more times, Acrobat or Acrobat Reader prompts you to rate \nyour overall experience with the AI Assistant and Generative summary features.",
+      "page_number": 23
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "refined_text": "Note:  \nAcrobat Classic does not support AI Assistant.",
+      "page_number": 17
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "refined_text": "You can request access to \nthe AI Assistant for Acrobat from the Acrobat desktop app, Acrobat on the web, Acrobat \nbrowser extension, and Acrobat for Microsoft Teams.",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "refined_text": "Administer AI Assistant for enterprises \nAdobe's AI Assistant for enterprises extends generative AI features to Acrobat on the web, \nmobile, and desktop platforms.",
+      "page_number": 16
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "refined_text": "As a Teams user, learn how to request access to AI Assistant for Acrobat from within the app.",
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "refined_text": "License deployment \nYou can manage the deployment of Acrobat AI Assistant through the Adobe Admin Console.",
+      "page_number": 18
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Alternatively, from Acrobat Home, select See all tools.",
+      "page_number": 22
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Adobe Acrobat supports a range of solutions for electronic and digital signatures.",
+      "page_number": 19
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Additional signing options in Acrobat include \nintegration with Adobe Acrobat Sign.",
+      "page_number": 19
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Consider signing up for Adobe Acrobat Sign online, the leader in e-signatures and web \ncontracting.",
+      "page_number": 21
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "With Acrobat Sign, you can get PDF, Microsoft Word, and other documents sent, \nsigned, and filed instantly.",
+      "page_number": 21
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "Acrobat and Acrobat Reader can embed the necessary elements if available, and the PDF \ncreator must enable usage rights for Acrobat Reader users by going to the hamburger \nmenu   (Windows) or the Acrobat menu (macOS) > Save as other > Acrobat Reader \nextended PDF.",
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "Select the hamburger menu   (Windows\u00ae), or go to Acrobat (macOS)> Preferences.",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "XML data signatures \nAcrobat and Acrobat Reader support XML data signatures that are used to sign data in XML \nForms Architectures (XFA) forms.",
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "Navigate to the hamburger menu   (Windows) or the Acrobat menu (macOS) \n> Preferences > Signatures.",
+      "page_number": 4
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "\u2022 \nTo view the name of the organization or person that signed the PDF Portfolio, hover \nthe pointer over the Signature Badge.",
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "refined_text": "Choose Acrobat > Create And Send For Review.",
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "refined_text": "They can also use Acrobat Reader or \nAcrobat desktop applications to add comments.",
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "refined_text": "They can also use Acrobat Reader or \nAcrobat desktop applications to add comments.",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "refined_text": "Note: \n\u2022 \nThe computer must be connected to the Internet to start a shared review in Acrobat.",
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "refined_text": "Note: \n\u2022 \nThe computer must be connected to the Internet to start a shared review in Acrobat.",
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "Annotations and drawing markup tools \noverview \nNote: In Acrobat Reader, complete commenting tools are available only in PDFs \nwith commenting enabled.",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "Note:  \nIn Acrobat Pro, you can add tags to your comments so that readers with motion or vision \nlimitations can read them using assistive technologies.",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "Add an arrow, or shape \nNote: In Acrobat Reader , drawing tools are available only in PDFs that have commenting \nenabled.",
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "Our online PDF editor lets you easily add text, \nsticky notes, highlights, drawings, and more to PDFs.",
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "Drawing Tools menu \nSelect an annotation or drawing markup tool \nFrom the quick tools menu on the left, select the desired annotation to add to the PDF.",
+      "page_number": 3
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "Export Expert: Test Your Acrobat Exporting Skills \n \nWelcome to the ultimate test of your Acrobat exporting skills!",
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "Dive into real-world scenarios, answer intriguing questions, and see if you have what it takes \nto be a true PDF exporting pro \n \n1.",
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "Do you use Acrobat to \nconvert your PDF to a PowerPoint file or manually recreate the slides?",
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "Think you know everything \nabout saving, converting, and exporting PDFs?",
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "Yes or No: Can you select and copy text and images from a PDF using the Select tool?",
+      "page_number": 2
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "Conclusion \nSharing PDFs with Adobe Acrobat is straightforward and efficient, \nwhether you're working on a general project or managing real estate \ndocuments.",
+      "page_number": 3
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "The Ultimate PDF Sharing Checklist \nSharing PDFs can be a breeze with Adobe Acrobat.",
+      "page_number": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "Let's dive \ninto the essentials of sharing PDFs effectively.",
+      "page_number": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "Here's a tailored checklist to \nhelp you manage your PDF sharing needs.",
+      "page_number": 2
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "Real Estate Sharing Checklist \n\u2022  Open Your Property Document \n\u2022 Have you launched Acrobat or Acrobat Reader and opened \nthe property listing or contract you need to share?",
+      "page_number": 2
+    }
+  ]
+}

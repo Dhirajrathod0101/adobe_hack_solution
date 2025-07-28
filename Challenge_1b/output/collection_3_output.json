@@ -1,0 +1,517 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Home Cook",
+    "job_to_be_done": "Extract easy-to-follow and unique recipes for breakfast and dinner",
+    "timestamp": "2025-07-28T18:06:45.092882Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 8,
+      "section_title": "Breakfast Casserole \nIngredients: \n\u2022 \n6 large eggs...",
+      "importance_score": 0.5683178901672363
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 4,
+      "section_title": "\u2022 \nServe with your favorite toppings....",
+      "importance_score": 0.5422176122665405
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 12,
+      "section_title": "\u2022 \nIn the morning, stir again and add your favorit...",
+      "importance_score": 0.5356602668762207
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 5,
+      "section_title": "\u2022 \nStir well before serving and top with your favo...",
+      "importance_score": 0.5259308218955994
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 2,
+      "section_title": "\u2022 \nServe with syrup and your favorite toppings....",
+      "importance_score": 0.4977611303329468
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 2,
+      "section_title": "\uf0b7 \nServe over egg noodles or rice....",
+      "importance_score": 0.49607935547828674
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 12,
+      "section_title": "\uf0b7 \nIn a baking dish, layer eggplant slices and mea...",
+      "importance_score": 0.49146243929862976
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 2,
+      "section_title": "\uf0b7 \nDredge chicken in flour, dip in beaten eggs, an...",
+      "importance_score": 0.46302005648612976
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 5,
+      "section_title": "\uf0b7 \nIn a bowl, mix ricotta cheese, egg, grated Parm...",
+      "importance_score": 0.45753735303878784
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 10,
+      "section_title": "\uf0b7 \nIn a baking dish, layer eggplant slices, marina...",
+      "importance_score": 0.4473620057106018
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page_number": 1,
+      "section_title": "\uf0b7 \nIn a large baking dish, layer diced eggplant, z...",
+      "importance_score": 0.4768098294734955
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page_number": 6,
+      "section_title": "\uf0b7 \n1 small onion, sliced \n\uf0b7 \n2 cloves garlic, minc...",
+      "importance_score": 0.4654604196548462
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page_number": 6,
+      "section_title": "\uf0b7 \nDivide noodles and thinly sliced beef among bow...",
+      "importance_score": 0.4577772915363312
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page_number": 10,
+      "section_title": "Ingredients: \n\uf0b7 \n4 chicken thighs \n\uf0b7 \n1 small onio...",
+      "importance_score": 0.45579028129577637
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page_number": 2,
+      "section_title": "\uf0b7 \nIn a bowl, whisk eggs, grated Parmesan cheese, ...",
+      "importance_score": 0.4557386636734009
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "page_number": 1,
+      "section_title": "\uf0b7 \nServe duck with sliced green onions and mandari...",
+      "importance_score": 0.48391976952552795
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "page_number": 3,
+      "section_title": "\uf0b7 \nTop with lemon slices, sliced onion, and sliced...",
+      "importance_score": 0.46853482723236084
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "page_number": 9,
+      "section_title": "\uf0b7 \nIn a bowl, mix ricotta cheese, egg, salt, and p...",
+      "importance_score": 0.4580918848514557
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "page_number": 2,
+      "section_title": "\uf0b7 \nIn a bowl, whisk eggs, heavy cream, salt, and p...",
+      "importance_score": 0.4516488313674927
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "page_number": 2,
+      "section_title": "\uf0b7 \nSprinkle cooked bacon, diced onion, and grated ...",
+      "importance_score": 0.43243399262428284
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 5,
+      "section_title": "o Pour batter into small dishes and steam until se...",
+      "importance_score": 0.4979217052459717
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 9,
+      "section_title": "o Slice potatoes, zucchinis, eggplants, and tomato...",
+      "importance_score": 0.4747071862220764
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 10,
+      "section_title": "o 1 small onion \no 2 cloves garlic \no 1/4 cup pars...",
+      "importance_score": 0.4746657609939575
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 14,
+      "section_title": "o Add cumin, coriander, garam masala, and turmeric...",
+      "importance_score": 0.47157222032546997
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 10,
+      "section_title": "o Spoon mixture onto toasted bread and serve....",
+      "importance_score": 0.47096729278564453
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "page_number": 14,
+      "section_title": "o Mix soup, milk, salt, and pepper in a baking dis...",
+      "importance_score": 0.49136775732040405
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "page_number": 13,
+      "section_title": "o Toss spinach with dressing and serve....",
+      "importance_score": 0.458958238363266
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "page_number": 4,
+      "section_title": "o Add cumin, turmeric, coriander, and garam masala...",
+      "importance_score": 0.4559653103351593
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "page_number": 5,
+      "section_title": "o Add diced tomatoes, ground egusi seeds, and cray...",
+      "importance_score": 0.4499821066856384
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "page_number": 14,
+      "section_title": "o Top with remaining fried onions and bake for an ...",
+      "importance_score": 0.44687288999557495
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "page_number": 5,
+      "section_title": "o Combine potatoes, bacon, and onion with the dres...",
+      "importance_score": 0.4865435063838959
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "page_number": 2,
+      "section_title": "o Combine with cooked beef and vegetables....",
+      "importance_score": 0.47022032737731934
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "page_number": 3,
+      "section_title": "o Add diced tomatoes, tomato paste, thyme, curry p...",
+      "importance_score": 0.4630497694015503
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "page_number": 7,
+      "section_title": "o Toss chicken with the dressing, chopped mint, ci...",
+      "importance_score": 0.46077489852905273
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "page_number": 10,
+      "section_title": "o Add chili bean paste, soy sauce, rice wine, and ...",
+      "importance_score": 0.45612573623657227
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "page_number": 11,
+      "section_title": "o Quarter hard-boiled eggs and add to the salad....",
+      "importance_score": 0.5151816606521606
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "page_number": 2,
+      "section_title": "o Mix bread, tomatoes, cucumber, onion, and choppe...",
+      "importance_score": 0.48732590675354004
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "page_number": 14,
+      "section_title": "o Slice and serve with pita bread and toppings....",
+      "importance_score": 0.4844503402709961
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "page_number": 11,
+      "section_title": "o Arrange tomatoes, cucumber, onion, green beans, ...",
+      "importance_score": 0.4766992926597595
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "page_number": 9,
+      "section_title": "o Pour chicken and sauce over the bread and serve ...",
+      "importance_score": 0.4689871668815613
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 12,
+      "section_title": "\u2022 \nAdd the chicken, cheese, and coleslaw mix....",
+      "importance_score": 0.4868342876434326
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 2,
+      "section_title": "\u2022 \nAdd the chicken, lettuce, and Parmesan cheese....",
+      "importance_score": 0.45683765411376953
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 14,
+      "section_title": "\u2022 \nLayer the turkey, apple slices, and spinach on ...",
+      "importance_score": 0.4522629976272583
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 11,
+      "section_title": "\u2022 \nSlice into bite-sized pieces and serve with soy...",
+      "importance_score": 0.4487763047218323
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 15,
+      "section_title": "\u2022 \nAdd the chicken, avocado, and spinach....",
+      "importance_score": 0.446183979511261
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Breakfast Casserole \nIngredients: \n\u2022 \n6 large eggs \n\u2022 \n1 cup milk \n\u2022 \n1 cup shredded cheese \n\u2022 \n1/2 cup cooked sausage or bacon \n\u2022 \n1/2 cup diced bell pepper \n\u2022 \n1/2 cup diced onion",
+      "page_number": 8
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "\u2022 \nServe with your favorite toppings.",
+      "page_number": 4
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "\u2022 \nIn the morning, stir again and add your favorite toppings.",
+      "page_number": 12
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "\u2022 \nStir well before serving and top with your favorite toppings.",
+      "page_number": 5
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "\u2022 \nServe with syrup and your favorite toppings.",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "\uf0b7 \nServe over egg noodles or rice.",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "\uf0b7 \nIn a baking dish, layer eggplant slices and meat sauce.",
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "\uf0b7 \nDredge chicken in flour, dip in beaten eggs, and coat with a mixture of breadcrumbs and \ngrated Parmesan cheese.",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "\uf0b7 \nIn a bowl, mix ricotta cheese, egg, grated Parmesan cheese, basil, and oregano.",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "\uf0b7 \nIn a baking dish, layer eggplant slices, marinara sauce, and shredded mozzarella cheese.",
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\uf0b7 \nIn a large baking dish, layer diced eggplant, zucchini, bell pepper, onion, and tomatoes.",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\uf0b7 \n1 small onion, sliced \n\uf0b7 \n2 cloves garlic, minced \n\uf0b7 \n1 piece ginger, sliced \n\uf0b7 \n2 star anise \n\uf0b7 \n1 cinnamon stick \n\uf0b7 \n1 tablespoon fish sauce \n\uf0b7 \n1 tablespoon soy sauce \n\uf0b7 \n8 ounces rice noodles \n\uf0b7 \nFresh basil, cilantro, bean sprouts, lime wedges, and sliced jalape\u00f1os for garnish \nInstructions: \n\uf0b7 \nIn a large pot, bring beef broth to a boil.",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\uf0b7 \nDivide noodles and thinly sliced beef among bowls.",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Ingredients: \n\uf0b7 \n4 chicken thighs \n\uf0b7 \n1 small onion, diced \n\uf0b7 \n2 cloves garlic, minced \n\uf0b7 \n1 cup red wine \n\uf0b7 \n1 cup chicken broth \n\uf0b7 \n1 cup mushrooms, sliced \n\uf0b7 \n1 cup carrots, sliced \n\uf0b7 \n1/4 cup bacon, chopped \n\uf0b7 \n2 tablespoons tomato paste \n\uf0b7 \n2 tablespoons flour \n\uf0b7 \n2 tablespoons butter \n\uf0b7 \n1 teaspoon thyme \n\uf0b7 \n1 bay leaf \n\uf0b7 \nSalt and pepper to taste \nInstructions: \n\uf0b7 \nPreheat oven to 350\u00b0F (175\u00b0C).",
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\uf0b7 \nIn a bowl, whisk eggs, grated Parmesan cheese, and heavy cream (if using).",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "\uf0b7 \nServe duck with sliced green onions and mandarin pancakes.",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "\uf0b7 \nTop with lemon slices, sliced onion, and sliced zucchini.",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "\uf0b7 \nIn a bowl, mix ricotta cheese, egg, salt, and pepper.",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "\uf0b7 \nIn a bowl, whisk eggs, heavy cream, salt, and pepper.",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "\uf0b7 \nSprinkle cooked bacon, diced onion, and grated Gruy\u00e8re cheese over the crust.",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o Pour batter into small dishes and steam until set.",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o Slice potatoes, zucchinis, eggplants, and tomatoes.",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o 1 small onion \no 2 cloves garlic \no 1/4 cup parsley \no 1 teaspoon cumin \no 1 teaspoon cinnamon \no 1 teaspoon salt \no 1/2 teaspoon pepper \no 1 package phyllo dough \no 1/4 cup butter \no Oil for frying \n\uf0b7 \nInstructions: \no Saut\u00e9 ground beef, diced onion, and minced garlic until cooked.",
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o Add cumin, coriander, garam masala, and turmeric, cook for 1 minute.",
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o Spoon mixture onto toasted bread and serve.",
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o Mix soup, milk, salt, and pepper in a baking dish.",
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o Toss spinach with dressing and serve.",
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o Add cumin, turmeric, coriander, and garam masala, cook for 1 minute.",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o Add diced tomatoes, ground egusi seeds, and crayfish powder, cook for 5 \nminutes.",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o Top with remaining fried onions and bake for an additional 5 minutes.",
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o Combine potatoes, bacon, and onion with the dressing.",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o Combine with cooked beef and vegetables.",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o Add diced tomatoes, tomato paste, thyme, curry powder, salt, and pepper, cook \nfor 5 minutes.",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o Toss chicken with the dressing, chopped mint, cilantro, and sliced chilies.",
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o Add chili bean paste, soy sauce, rice wine, and sugar, cook for 2 minutes.",
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "o Quarter hard-boiled eggs and add to the salad.",
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "o Mix bread, tomatoes, cucumber, onion, and chopped basil.",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "o Slice and serve with pita bread and toppings.",
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "o Arrange tomatoes, cucumber, onion, green beans, olives, and tuna on a plate.",
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "o Pour chicken and sauce over the bread and serve warm.",
+      "page_number": 9
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "\u2022 \nAdd the chicken, cheese, and coleslaw mix.",
+      "page_number": 12
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "\u2022 \nAdd the chicken, lettuce, and Parmesan cheese.",
+      "page_number": 2
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "\u2022 \nLayer the turkey, apple slices, and spinach on top.",
+      "page_number": 14
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "\u2022 \nSlice into bite-sized pieces and serve with soy sauce.",
+      "page_number": 11
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "\u2022 \nAdd the chicken, avocado, and spinach.",
+      "page_number": 15
+    }
+  ]
+}
